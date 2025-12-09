@@ -1,4 +1,11 @@
 # script-to-FFUF
+
+Script Python semplice e pulito per rendere l'uso di **ffuf** molto più veloce e comodo durante test autorizzati.
+
+![](https://img.shields.io/badge/Python-3.8%2B-blue)
+![](https://img.shields.io/badge/Tool-ffuf-ff69b4
+https://img.shields.io/badge/License-MIT-red
+
 Un semplicissimo script in python per automatizzare l'utilizzo del tool FFUF
 
 Questo script è stato creato ESCLUSIVAMENTE per scopi didattici e di penetration testing / bug bounty AUTORIZZATO.
