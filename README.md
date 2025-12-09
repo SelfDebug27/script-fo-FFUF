@@ -14,7 +14,7 @@ L’autore NON è responsabile di alcun uso improprio o illegale dello script.
 L’uso non autorizzato può costituire reato.
 Usa questo strumento solo sui tuoi laboratori, su piattaforme come Hack The Box, TryHackMe, PortSwigger Labs o programmi bug bounty che ti autorizzano chiaramente.
 
-Tutto il merito del vero strumento va agli autori di ffuf ❤️  
+Tutto il merito del vero strumento va agli autori di ffuf
 https://github.com/ffuf/ffuf
 
 ### Requisiti
